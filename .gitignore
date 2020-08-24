@@ -131,5 +131,5 @@ dmypy.json
 
 # exclude data from source control by default
 /data/
-/exp/exp*/logs/**
+/exps/exp*/logs/
 .mp4
